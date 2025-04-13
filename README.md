@@ -6,11 +6,61 @@
 
 ## 📚 Features
 
-- ✅ Class 10 Notes and Summaries
-- ✅ NCERT-Based Chapter Solutions
-- ✅ PDF Downloads for Easy Study
-- ✅ Mobile-Responsive Layout
-- ✅ Simple and Clean UI
+### ✅ 1. Class 10 Notes and Summaries  
+Get concise, exam-focused notes and summaries for:
+
+- **English Literature**
+  - *First Flight* (Poem & Prose)
+  - *Footprints Without Feet* (Supplementary)
+- **Science**
+  - Chapter-wise notes with diagrams and key definitions
+- **Math**
+  - Formulas + examples + shortcut tricks
+- **Social Science**
+  - History, Geography, Civics, Economics — simplified notes
+- **Optional: Artificial Intelligence / IT**
+
+➡️ _Subject-wise folders and homepage list planned._
+
+---
+
+### ✅ 2. NCERT-Based Chapter Solutions  
+For each chapter:
+
+- All NCERT exercise solutions (English, Science, SST, etc.)
+- Clear step-by-step explanations
+- Keywords & value points highlighted
+
+➡️ _Available as both HTML pages and downloadable PDFs._
+
+---
+
+### ✅ 3. PDF Downloads for Easy Study  
+Each note or chapter includes:
+
+- Downloadable PDF button
+- Clean, print-ready format
+- Ideal for offline revision
+
+➡️ _PDF generation for each chapter supported._
+
+---
+
+### ✅ 4. Mobile-Responsive Layout  
+
+- Optimized for phones, tablets, and desktops
+- Uses clean CSS (Tailwind/Bootstrap ready)
+- Clear navigation, minimal scrolling
+
+➡️ _Dark mode option in progress._
+
+---
+
+### ✅ 5. Simple and Clean UI  
+
+- No ads, popups, or clutter
+- Focused on reading and learning
+- Soft colors, rounded cards, and smooth typography
 
 ---
 
@@ -25,11 +75,12 @@
 
 - HTML5
 - CSS3
-- (Optional) Tailwind CSS or Bootstrap in future
+- (Optional) Tailwind CSS or Bootstrap
 
 ---
 
 ## 📁 Folder Structure
+
 
 ---
 
