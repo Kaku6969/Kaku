@@ -8,17 +8,37 @@
 
 ### ✅ 1. Class 10 Notes and Summaries  
 Get concise, exam-focused notes and summaries for:
+<section id="notes-details">
+  <h2>✅ 1. Class 10 Notes and Summaries</h2>
+  <div class="content-box">
+    <p>Get concise, exam-focused notes and summaries for:</p>
+    <ul>
+      <li><strong>📘 English Literature</strong>
+        <ul>
+          <li><em>First Flight</em> (Poem & Prose)</li>
+          <li><em>Footprints Without Feet</em> (Supplementary)</li>
+        </ul>
+      </li>
+      <li><strong>🧪 Science</strong>
+        <ul>
+          <li>Chapter-wise notes with diagrams and key definitions</li>
+        </ul>
+      </li>
+      <li><strong>🧮 Math</strong>
+        <ul>
+          <li>Formulas + examples + shortcut tricks</li>
+        </ul>
+      </li>
+      <li><strong>🌍 Social Science</strong>
+        <ul>
+          <li>History, Geography, Civics, Economics — simplified notes</li>
+        </ul>
+      </li>
+      <li><strong>💻 Optional: Artificial Intelligence / IT</strong></li>
+    </ul>
+  </div>
+</section>
 
-- **English Literature**
-  - *First Flight* (Poem & Prose)
-  - *Footprints Without Feet* (Supplementary)
-- **Science**
-  - Chapter-wise notes with diagrams and key definitions
-- **Math**
-  - Formulas + examples + shortcut tricks
-- **Social Science**
-  - History, Geography, Civics, Economics — simplified notes
-- **Optional: Artificial Intelligence / IT**
 
 ➡️ _Subject-wise folders and homepage list planned._
 
@@ -88,8 +108,4 @@ Each note or chapter includes:
 - Professional and clean structure
 - Easy for anyone to understand the purpose and use of your project
 - Ready for open-source contribution or future upgrades
-
----
-
-Would you like me to generate the actual `README.md` file for you as a download? Or just want it included in a ZIP with everything?
 
