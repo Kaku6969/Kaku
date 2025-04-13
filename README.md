@@ -6,8 +6,7 @@
 
 ## 📚 Features
 
-### ✅ 1. Class 10 Notes and Summaries  
-Get concise, exam-focused notes and summaries for:
+###
 <section id="notes-details">
   <h2>✅ 1. Class 10 Notes and Summaries</h2>
   <div class="content-box">
